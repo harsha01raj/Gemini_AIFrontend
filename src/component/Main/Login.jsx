@@ -45,7 +45,7 @@ const Login = () => {
   return (
     <div className="login" id={theme}>
       <div id="table">
-        <h2>Sign Up Here</h2>
+        <h2>Login Here</h2>
         <table>
           <tr>
             <th>Email:- </th>
